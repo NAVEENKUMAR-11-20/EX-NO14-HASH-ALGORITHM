@@ -27,7 +27,7 @@ Security: The strength of the hash algorithm lies in its collision resistance, e
 
 Program:
 
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -63,8 +63,8 @@ int main() {
 
 Output:
 
+<img width="729" height="264" alt="image" src="https://github.com/user-attachments/assets/e851b9ca-fb95-4a64-8a9a-181e1736352e" />
 
-<img width="975" height="587" alt="image" src="https://github.com/user-attachments/assets/6019daae-826d-40fc-90f3-31d45a4e930e" />
 
 Result:
 
